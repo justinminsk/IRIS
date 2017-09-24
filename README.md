@@ -4,7 +4,7 @@ Analyzing data from iris flowers using pandas, numpy, matplotlib, and pygal.
 
 ## Files
 
-IRIS.ipynb - main file looking thorugh the data with pygal.
+IRIS.ipynb - Main file looking thorugh the data with the addition of pygal.
 
 Iris.csv - The data in csv format.
 
