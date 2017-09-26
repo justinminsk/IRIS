@@ -14,6 +14,10 @@ bar_chart.svg - bar chart for IRIS.ipynb.
 
 kaggle_notebook.ipynb - My last pulled notebook from kaggle.
 
+## Kaggle notebook page
+
+https://www.kaggle.com/justinminsk/iris-data/
+
 ## Data
 
 Data is from https://www.kaggle.com/uciml/iris.
