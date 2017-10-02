@@ -10,12 +10,6 @@ Iris.csv - The data in csv format.
 
 PandasandNumpy.ipynb - Learning tool I made for pandas. (https://www.kaggle.com/justinminsk/pandas-and-numpy-tutorial/)
 
-bar_chart.svg - bar chart for IRIS.ipynb.
-
-hist2_chart.svg - histogram for IRIS.ipynb.
-
-hist_chart.svg - histogram for IRIS.ipynb.
-
 kaggle_notebook.ipynb - My last pulled notebook from kaggle.
 
 ## Kaggle notebook page
