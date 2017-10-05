@@ -28,7 +28,7 @@ Data is from https://www.kaggle.com/uciml/iris.
 
 -Need Anaconda3 or at least Jupyter Notebook runing Python 3
 
--Need pandas, numpy, pygal, and matplotlib libraries
+-Need pandas, numpy, pygal, seaborn, and matplotlib libraries
 
 ## Author
 
