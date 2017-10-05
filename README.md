@@ -24,6 +24,12 @@ Since kaggle does not support pygal you need to look at the IRIS.ipynb to see th
 
 Data is from https://www.kaggle.com/uciml/iris.
 
+## Useful Information
+
+-Need Anaconda3 or at least Jupyter Notebook runing Python 3
+
+-Need pandas, numpy, pygal, and matplotlib libraries
+
 ## Author
 
-Jusitn Minsk
+Jusitn Minsk - justin.minsk@gmail.com
