@@ -4,7 +4,7 @@ Analyzing data from iris flowers using pandas, numpy, matplotlib, and pygal.
 
 ## Files
 
-IRIS.ipynb - Main file looking thorugh the data with the addition of pygal.
+IRIS.ipynb - Main file looking through the data with the addition of pygal.
 
 Iris.csv - The data in csv format.
 
@@ -14,7 +14,7 @@ kaggle_notebook.ipynb - My last pulled notebook from kaggle.
 
 ## Kaggle notebook page
 
-My final kaggle notebok https://www.kaggle.com/justinminsk/iris-data/.
+My final kaggle notebook https://www.kaggle.com/justinminsk/iris-data/.
 
 ## Differences
 
@@ -26,10 +26,10 @@ Data is from https://www.kaggle.com/uciml/iris.
 
 ## Useful Information
 
--Need Anaconda3 or at least Jupyter Notebook runing Python 3
+-Need Anaconda3 or at least Jupyter Notebook running Python 3
 
 -Need pandas, numpy, pygal, seaborn, and matplotlib libraries
 
 ## Author
 
-Jusitn Minsk - justin.minsk@gmail.com
+Justin Minsk - justin.minsk@gmail.com
